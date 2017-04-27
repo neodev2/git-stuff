@@ -1,3 +1,8 @@
+show commit changes
+```
+git show XXX
+```
+
 some configs
 ```
 git config user.name "XXX"
