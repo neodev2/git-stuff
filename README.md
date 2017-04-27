@@ -1,5 +1,3 @@
-# node-exp
-
 some configs
 ```
 git config user.name "XXX"
