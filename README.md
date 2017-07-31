@@ -32,3 +32,12 @@ merge message (e.g. after pull)
 :q
 <press return>
 ```
+
+init repo (created from Github website)
+```
+git init
+git add .
+git commit -m "init"
+git remote add origin https://github.com/XXX/XXX.git
+git push -u origin master
+```
